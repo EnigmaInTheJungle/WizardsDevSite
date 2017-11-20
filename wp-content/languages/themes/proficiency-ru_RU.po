@@ -1,0 +1,220 @@
+# Translation of Themes - Proficiency in Russian
+# This file is distributed under the same license as the Themes - Proficiency package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-05-07 17:14:38+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Themes - Proficiency\n"
+
+#. Description of the plugin/theme
+msgid "Proficiency could be a powerful business theme that has a quick approach for firms or freelancers to make an dream on-line presence. simple, clean, responsive one page business WordPress theme It is used for a personal web blog or a business website.Proficiency has been tested with WooCommerce and has basic WooCommerce support/integration. This theme may be wont to produce multilanguage websites."
+msgstr "Proficiency может стать мощной бизнес-темой для компаний или фрилансеров для онлайн презентации услуг. Простая, чистая, отзывчивая бизнес тема WordPress хорошо впишется для личного веб-блога или корпоративного сайта.Proficiency была протестирована с WooCommerce и имеет ее базовую поддержку и интеграцию. Возможно тема не подойдет для многоязычных сайтов."
+
+#. Theme Name of the plugin/theme
+msgid "Proficiency"
+msgstr "Proficiency"
+
+#: single.php:50
+msgid "By"
+msgstr "от"
+
+#: searchform.php:5
+msgid "Search"
+msgstr "Поиск"
+
+#: searchform.php:3
+msgid "Search Here"
+msgstr "Поиск ..."
+
+#: search.php:23
+msgid "Sorry, Do Not match."
+msgstr "Извините, нет совпадений."
+
+#: search.php:21
+msgid "Not Found"
+msgstr "Не найдено"
+
+#: search.php:17
+msgid "Search Results for: %s"
+msgstr "Результаты поиска: %s"
+
+#. translators: %s: Name of current post
+#: page.php:34
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr "Редактировать<span class=\"screen-reader-text\"> \"%s\"</span>"
+
+#. translators: %s: Name of current post
+#: inc/ansar/template-tags.php:71
+msgid "Edit %s"
+msgstr "Редактировать %s"
+
+#: inc/ansar/template-tags.php:64
+msgid "% Comments"
+msgstr "% Коммент."
+
+#: inc/ansar/template-tags.php:64
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: inc/ansar/template-tags.php:64
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: inc/ansar/template-tags.php:58
+msgid "Tagged %1$s"
+msgstr "Метки: %1$s"
+
+#: inc/ansar/template-tags.php:52
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s"
+
+#. translators: used between list items, there is a space after the comma
+#: inc/ansar/template-tags.php:50 inc/ansar/template-tags.php:56
+msgid ", "
+msgstr ", "
+
+#: inc/ansar/template-tags.php:33
+msgctxt "post author"
+msgid "by %s"
+msgstr "автором %s"
+
+#: inc/ansar/template-tags.php:28
+msgctxt "post date"
+msgid "Posted on %s"
+msgstr "Опубликовано %s"
+
+#: inc/ansar/proficiency-custom-navwalker.php:193
+msgid "Add a menu"
+msgstr "Добавить меню"
+
+#: inc/ansar/customize/ta_customize_copyright.php:99
+msgid "Google-plus URL"
+msgstr "Google+ URL"
+
+#: inc/ansar/customize/ta_customize_copyright.php:78
+msgid "Linkedin URL"
+msgstr "Linkedin URL"
+
+#: inc/ansar/customize/ta_customize_copyright.php:58
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: inc/ansar/customize/ta_customize_copyright.php:49
+#: inc/ansar/customize/ta_customize_copyright.php:69
+#: inc/ansar/customize/ta_customize_copyright.php:90
+#: inc/ansar/customize/ta_customize_copyright.php:111
+msgid "Open Link New tab/window"
+msgstr "Открыть ссылку в новом окне/вкладке"
+
+#: inc/ansar/customize/ta_customize_copyright.php:38
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: inc/ansar/customize/ta_customize_copyright.php:28
+msgid "Social Link"
+msgstr "Адреса соц. сетей"
+
+#: inc/ansar/customize/ta_customize_copyright.php:21
+msgid "Copyright text"
+msgstr "Текст копирайта"
+
+#: inc/ansar/customize/ta_customize_copyright.php:12
+msgid "This is a Footer section."
+msgstr "Это раздел нижнего колонтитула."
+
+#: inc/ansar/customize/ta_customize_copyright.php:11
+msgid "Footer Copyright Settings"
+msgstr "Настройки копирайта в подвале"
+
+#: inc/ansar/customize/ta_customize_copyright.php:7
+msgid "Footer Settings"
+msgstr "Настройки подвала"
+
+#: header.php:47
+msgid "Toggle Navigation"
+msgstr "Включить навигацию"
+
+#: header.php:24
+msgid "Skip to content"
+msgstr "Перейти к содержанию"
+
+#: functions.php:131
+msgid "Sidebar"
+msgstr "Боковая панель"
+
+#: functions.php:65
+msgid "Footer Menu"
+msgstr "Меню подвала"
+
+#: functions.php:64
+msgid "Primary menu"
+msgstr "Основное меню"
+
+#: content.php:31
+msgid "Pages:"
+msgstr "Страница:"
+
+#: content.php:26
+msgid "by"
+msgstr "от"
+
+#: comments.php:74
+msgid "Comments are closed."
+msgstr "Комментарии закрыты."
+
+#: comments.php:43 comments.php:64
+msgid "Newer Comments"
+msgstr "Новые Комментарии"
+
+#: comments.php:42 comments.php:63
+msgid "Older Comments"
+msgstr "Старые комментарии"
+
+#: comments.php:39 comments.php:60
+msgid "Comment navigation"
+msgstr "Наигация по комментариям"
+
+#: comments.php:30
+msgctxt "comments title"
+msgid "One Comments &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s Comments"
+msgstr[0] "Один комментарий &ldquo;%2$s&rdquo;"
+msgstr[1] "%1$s комментария"
+msgstr[2] "%1$s комментариев"
+
+#: 404.php:30
+msgid "Go Back"
+msgstr "Назад"
+
+#: 404.php:29
+msgid "Sorry, we can't find the page you're looking for. This page has moved or was never here to start with."
+msgstr "К сожалению, мы не можем найти страницу, которую вы ищете. Эта страница была перемещена или никогда не была здесь."
+
+#: 404.php:28
+msgid "Oops! Page not found"
+msgstr "Упс! Страница не найдена"
+
+#: 404.php:27
+msgid "4"
+msgstr "4 "
+
+#: 404.php:15
+msgid "404"
+msgstr "404"
+
+#. Author URI of the plugin/theme
+msgid "https://themeansar.com/ansarbuddy"
+msgstr "https://themeansar.com/ansarbuddy"
+
+#. Author of the plugin/theme
+msgid "Ansarbuddy"
+msgstr "Ansarbuddy"
+
+#. Theme URI of the plugin/theme
+msgid "https://themeansar.com/ansarbuddy/proficiency"
+msgstr "https://themeansar.com/ansarbuddy/proficiency"
